@@ -1,2 +1,2 @@
-# datascience
-An effort to learn data science from basics to advanced
+# coding101
+An effort to learn to code from basics!
